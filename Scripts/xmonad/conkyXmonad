@@ -1,0 +1,18 @@
+background no
+out_to_console yes
+#out_to_x no
+update_interval 2.0
+update_interval_on_battery 2.0
+
+TEXT
+${cpu cpu1}|\
+${cpu cpu2}|\
+${cpu cpu3}|\
+${cpu cpu4}|\
+${cpu cpu5}|\
+${cpu cpu6}|\
+${cpu cpu7}|\
+${cpu cpu8}|\
+${freq_g}|\
+${mem}|\
+${memperc}
